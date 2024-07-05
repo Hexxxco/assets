@@ -3,5 +3,10 @@
   "title": "image 1",
   "image": "https://raw.githubusercontent.com/Hexxxco/assets/main/cultura.jpg",
   "urlimage": "hfgh"
+  },
+ {
+  "title": "Madrid",
+  "image": "https://raw.githubusercontent.com/Hexxxco/assets/main/madrid.jpg",
+  "urlimage": "hfgh"
   }
 ]
