@@ -1,12 +1,52 @@
 [
   {
-  "title": "image 1",
-  "image": "https://raw.githubusercontent.com/Hexxxco/assets/main/cultura.jpg",
+  "title": "Argentina / Monumental",
+  "image": "https://raw.githubusercontent.com/Hexxxco/estadiosimg/main/argentina.jpg",
   "urlimage": "hfgh"
   },
  {
-  "title": "Madrid",
-  "image": "https://raw.githubusercontent.com/Hexxxco/assets/main/madrid.jpg",
+  "title": "Bolivia / Hernando Siles",
+  "image": "https://raw.githubusercontent.com/Hexxxco/estadiosimg/main/bolivia.jpg",
+  "urlimage": "hfgh"
+  },
+{
+  "title": "Brasil / Maracana",
+  "image": "https://raw.githubusercontent.com/Hexxxco/estadiosimg/main/brasil.jpg",
+  "urlimage": "hfgh"
+  },
+{
+  "title": "Chile / Nacional de Chile",
+  "image": "https://raw.githubusercontent.com/Hexxxco/estadiosimg/main/chile.jpg",
+  "urlimage": "hfgh"
+  },
+{
+  "title": "Colombia / P Guerrero",
+  "image": "https://raw.githubusercontent.com/Hexxxco/estadiosimg/main/colombia.jpg",
+  "urlimage": "hfgh"
+  },
+{
+  "title": "Ecuador / Olimpico",
+  "image": "https://raw.githubusercontent.com/Hexxxco/estadiosimg/main/ecuador.jpg",
+  "urlimage": "hfgh"
+  },
+{
+  "title": "Paraguay / P. Rojas",
+  "image": "https://raw.githubusercontent.com/Hexxxco/estadiosimg/main/paraguay.jpg",
+  "urlimage": "hfgh"
+  },
+{
+  "title": "Peru / Monumental",
+  "image": "https://raw.githubusercontent.com/Hexxxco/estadiosimg/main/peru.jpg",
+  "urlimage": "hfgh"
+  },
+{
+  "title": "Uruguay / Centenario",
+  "image": "https://raw.githubusercontent.com/Hexxxco/estadiosimg/main/uruaguay.jpg",
+  "urlimage": "hfgh"
+  },
+{
+  "title": "Venezuela / Maturrin",
+  "image": "https://raw.githubusercontent.com/Hexxxco/estadiosimg/main/venezuela.jpg",
   "urlimage": "hfgh"
   }
 ]
