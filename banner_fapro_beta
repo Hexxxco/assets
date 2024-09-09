@@ -1,1 +1,12 @@
-
+[
+   {
+      "title":"argentina",
+      "urlimage":"",
+      "image":"https://raw.githubusercontent.com/Hexxxco/estadiosimg/main/argentina.jpg"
+   },
+  {
+      "title":"bolivia",
+      "urlimage":"",
+      "image":"https://raw.githubusercontent.com/Hexxxco/estadiosimg/main/bolivia.jpg"
+   }
+]
