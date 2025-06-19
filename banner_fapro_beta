@@ -8,5 +8,25 @@
       "title":"bolivia",
       "urlimage":"",
       "image":"https://raw.githubusercontent.com/Hexxxco/estadiosimg/main/bolivia.jpg"
+   },
+   {
+      "title":"brasil",
+      "urlimage":"",
+      "image":"https://raw.githubusercontent.com/Hexxxco/estadiosimg/main/brasil.jpg"
+   },
+   {
+      "title":"chile",
+      "urlimage":"",
+      "image":"https://raw.githubusercontent.com/Hexxxco/estadiosimg/main/chile.jpg"
+   },
+   {
+      "title":"colombia",
+      "urlimage":"",
+      "image":"https://raw.githubusercontent.com/Hexxxco/estadiosimg/main/colombia.jpg"
+   },
+   {
+      "title":"ecuador",
+      "urlimage":"",
+      "image":"https://raw.githubusercontent.com/Hexxxco/estadiosimg/main/ecuador.jpg"
    }
 ]
